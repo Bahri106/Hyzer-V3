@@ -4,13 +4,15 @@ BIG THANKS TO
 
 ➸ Allah S.W.T
 ➸ My Parent
-➸ Hyzer ( pemilik bot )
-➸ Shiro (Bot)
+➸ Hyzer ( pemilik sc )
+➸ Shiro 
 ➸ Exc (membantu)
 ➸ Tio (membantu)
 ➸ Andrii(membantu)
 ➸ Penyedia Layanan API
 ➸ Org2 yg berdonasi
+➸ Rozi ( pemilik bot )
+➸ Zifabotz ( Bot )
 `.trim(), watermark, 'Back', '.menu')
 handler.help = ['Thanksto', 'tqto']
 handler.tags = ['main']
